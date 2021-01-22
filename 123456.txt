@@ -1,0 +1,77 @@
+﻿姓名：张金伟
+
+职称：教授
+
+专业方向：激光技术系
+
+联系方式：jinweizhang@hust.edu.cn
+
+研究方向：超快激光技术，高功率超快碟片激光技术
+
+超快激光技术是当前激光领域的前沿热点研究方向。超快激光不仅是物理、化学以及生命科学等基础科学研究的重要工具，在高端制造、信息传输存储、环境检测以及国防安全等领域都有着极为广泛且重要的应用。课题组致力于开发新型固体超快激光器，通过研究新型工作物质，新型谐振腔设计以及新的超快工作机理，使超快激光具有更高的功率、更短的脉冲宽度以及新的波长范围；在高功率激光器方面，课题组基于碟片技术开发新一代的大功率超快激光光源。作为目前世界主流的三种高功率激光技术之一，碟片激光器由于采用大而薄（厚度100微米左右）的碟片晶体作为增益介质，具有非线性低、功率及能量放大性好、损伤阈值高等特点，非常适合产生大能量、高峰值功率的超快激光。课题组致力于掌握超快碟片激光器的核心技术，推动国产高功率超快碟片激光器的发展；同时，超快激光技术特别是高功率碟片激光技术的发展将会极大地促进应用领域的扩展。课题组将利用这些前沿激光技术的性能优势，探索其所带来的各种新的应用。
+
+课题组欢迎有志于发展超快激光技术并且勤奋、好学、勇于接受挑战的学生加入，欢迎校内外优秀本科毕业生保送或报考硕士和博士研究生，也欢迎优秀的本科生到课题组进行科研实践。
+
+个人简介：
+
+教育经历
+
+2005/9- 2009/7北京理工大学 学士
+
+2009/9- 2015/7中国科学院物理研究所 博士
+
+2013/10- 2015/4德国马克斯普朗克量子光学所 交流
+
+工作经历
+
+2015/7- 2019/9德国马克斯普朗克量子光学所 博后
+
+2019/9-华中科技大学光电学院 教授
+
+科研获奖
+
+2019年“Rising Stars of Light” Award Second Prize, Light conference, Changchun, 2019
+
+代表论文：
+
+1.Jinwei Zhang, Kilian Fritsch, Qing Wang, Ferenc Krausz, Ka Fai Mak, and Oleg Pronin, "Intra-pulse difference-frequency generation of mid-infrared (2.7–20 μm) by random quasi-phase-matching," Optics Letters 44, 2986, 2019.
+
+2.Qing Wang†, Jinwei Zhang†, Alexander Kessel, Nathalie Nagl, Vladimir Pervak, Oleg Pronin, and Ka Fai Mak, "Broadband mid-infrared coverage (2–17μm) with few-cycle pulses via cascaded parametric processes," Optics Letters 44, 2566, 2019. (共同一作)
+
+3.Jinwei Zhang, Ka Fai Mak and Oleg Pronin, “Kerr-lens mode-locked 2 μm thin-disk lasers”, IEEE Journal of Selected Topics in Quantum Electronics 24, 1102111, 2018. (特邀文章)
+
+4.Jinwei Zhang, Felix Schulze, Ka Fai Mak, Vladimir Pervak, Dominik Bauer, Dirk Sutter, and Oleg Pronin, “High-power, high-efficiency Tm:YAG and Ho:YAG thin-disk lasers”, Laser & Photonics Reviews 12, 1700273, 2018. (封面文章)
+
+5.Jinwei Zhang, Ka Fai Mak, Nathalie Nagl, Marcus Seidel, Dominik Bauer, Dirk Sutter, Vladimir Pervak, Ferenc Krausz, and Oleg Pronin, “Multi-mW, few-cycle mid-infrared continuum spanning from 500 to 2250 cm-1”, Light: Science & Applications 7, 17180, 2018.
+
+6.Tatiana Amotchkina, Michael. Trubetskov, Florian Habel, Yurij. Pervak, Jinwei Zhang, Ka Fai Mak, Oleg Pronin, Ferenc Krausz, and Vladimir Pervak, “Synthesis, fabrication and characterization of a highly-dispersive mirrors for the 2 μm spectral range”, Optics Express 25, 10234, 2017.
+
+7.Yingnan Peng, Jinwei Zhang, Zhaohua Wang, Jiangfeng Zhu, Dehua Li and Zhiyi Wei, “Kerr-lens mode-locked Yb:YAG thin-disk oscillator”, Chinese Physics B 25, 094207, 2016.
+
+8.Jinwei Zhang, Hainian Han, Lei Hou, Long Zhang, Zijiao Yu, Dehua Li and Zhiyi Wei, “Frequency doubled femtosecond Ti:sapphire laser with an assisted enhancement cavity”, Chinese Physics B 1, 014205, 2016.
+
+9.Jinwei Zhang, Jonathan Brons, Nikolai Lilienfein, Elena Fedulova, Vladimir Pervak, Dominik Bauer, Dirk Sutter, Zhiyi Wei, Alexander Apolonski, Oleg Pronin and Ferenc Krausz, “260-megahertz, megawatt-level thin-disk oscillator”, Optics Letters, 40, 1627, 2015.
+
+10.Ioachim Pupeza, Daniel Sánchez, Jinwei Zhang, Nikolai Lilienfein, Marcus Seidel, Oleg Pronin, Nick Karpowicz, Tim Paasch-Colberg, Irina Znakovskaya, Vladimir Pervak, Ernst Fill, Zhiyi Wei, Ferenc Krausz, Alexander Apolonski, and Jens Biegert, “High-power sub-2-cycle mid-infrared pulses at 100 MHz repetition rate”, Nature Photonics 9, 721, 2015.
+
+11.Wenlong Tian, Zhaohua Wang, Long Wei, Yingnan Peng, Jinwei Zhang, Zheng Zhu, Jiangfeng Zhu, Hainian Han, Yulei Jia, Lihe Zheng, Jun Xu and Zhiyi Wei, “Diode-pumped Kerr-lens mode-locked Yb:LYSO laser with 61 fs pulse duration”, Optics Express 22, 19040, 2014.
+
+12.Jinwei Zhang, Hainian Han, Wenlong Tian, Liang Lv, Qing Wang, and Zhiyi Wei, “Diode-pumped 88-fs Kerr-lens mode-locked Yb:Y3Ga5O12crystal laser”, Optics Express 21, 29867, 2013.
+
+13.Jinwei Zhang, Long Zhang, Hainian Han, and Zhiyi Wei, “Ultra-narrow linewidth 243nm diode laser for precision hydrogen spectroscopy”, PHYSICS 40, 391, 2011.
+
+国际会议特邀报告：
+
+1.Jinwei Zhang, Ka Fai Mak, Sebastian Grӧbmeyer, Dominik Bauer, Dirk Sutter, Vladimir Pervak, Ferenc Krausz, and Oleg Pronin, “Kerr-lens mode-locked Ho:YAG thin-disk oscillator at 2.1 μm”, CLEO/Europe-EQEC, Munich, 2017.
+
+2.Jinwei Zhang, Ka Fai Mak, Sebastian Grӧbmeyer, Dominik Bauer, Dirk Sutter, Vladimir Pervak, Ferenc Krausz, and Oleg Pronin, “Generation of 220 fs, 20 W pulses at 2 μm from Kerr-lens mode-locked Ho:YAG thin-disk oscillator”, CLEO, San Jose, 2017.
+
+国际会议Postdeadline报告：
+
+1.Jinwei Zhang, Ka Fai Mak, Nathalie Nagl, Marcus Seidel, Ferenc Krausz, and Oleg Pronin, “7-W, 2-cycle self-compressed pulses at 2.1 micron from a Ho:YAG thin disk oscillator”, CLEO/Europe-EQEC, Munich, 2017.
+
+2.Jinwei Zhang, Jonathan Brons, Marcus Seidel, Vladimir Pervak, Zhiyi Wei, Alexander Apolonski, Ferenc Krausz, and Oleg Pronin, “49-fs Yb:YAG thin-disk oscillator with distributed Kerr-lens mode-locking”, CLEO/Europe-EQEC, Munich, 2015.
+
+专利：
+
+1.Jinwei Zhang, Oleg Pronin, Jonathan Brons, “Method and laser pulse source apparatus for generating fs laser pulses” USA patent (已授权并实现成果转化), Patent number: US 9627843B2.

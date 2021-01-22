@@ -1,0 +1,92 @@
+学习经历（从本科填起）
+1.1992.9-1996.6 兰州大学物理系，理学学士，专业：物理
+2.1998.9-2001.6 兰州大学物理学院，理学硕士，专业：凝聚态物理
+3.2002.9-2005.6 兰州大学物理学院，理学博士，专业：理论物理
+4.2006.1-2007.1 英国University College London, Computer Science Department, Visitor
+  工作经历
+1.1996.7-1998.8，兰州大学物理学系，助工
+2.1996.7-1998.8，兰州大学通信网络中心，助工
+3.2001.7-2006.3，兰州大学通信网络中心，工程师
+4.2006.4-2011.4，兰州大学信息科学与工程学院，副研究员
+4.2011.5至今，兰州大学信息科学与工程学院，教授
+  教学及指导研究生情况
+自1996年参加工作后，主要讲授了专业基础课《计算机应用基础》、《嵌入式Linux 开发》、《Linux内核》和《专业外语》等课程，累计超过1500学时。
+自2004年开始，每年主办针对高年级本科生、研究生和青年教师的暑期实训，开办以项目开发为内容的暑期学校（Summer School），着重培养学生的动手实践能力，折合总课时量超过600学时。
+1998年至今，指导本科生毕业论文70余人次；指导硕士研究生30余人次，毕业23人；协助李廉教授和Nicholas McGuire教授指导博士生3人；指导兰州大学开源社区和IBM学生俱乐部；软件自由日榆中校区交流讲座8次。
+在多年教学实践的基础上，获得2007年第二届IBM大中华区Power架构设计大赛卓越导师奖，2007年和2009年国家留学基金委“IBM奖教金”，2009年第七届“挑战杯”甘肃省大学生课外学术科技作品竞赛优秀指导教师，2010年甘肃省教学成果二等奖（《利用暑期学校开展实训教学的探索与实践》，第2完成人），2011年 “龙芯杯”开源软件大赛最佳导师奖，2011年Google 奖教金，2014年度兰州大学“隆基教育教学奖”教学骨干奖。
+  发表论文及专著
+1.Qingguo Zhou，Dan Chen，Huazhong Lu?，Fault-tolerant Hamiltonian laceability of balanced hypercubes，Information Sciences，2015，300：20-27 (SCI二区)
+1.Qingguo Zhou，Jiaming Yang，Jiong Wu，Yanshan Tian，Junqiong Wang，Hai Jiang，Kuan-Ching Li，An improved algorithm to convert CAD model to MCNP geometry model based on STEP file，Annals of Nuclear Energy，2015，78：81-88 (SCI)
+2.Qingguo Zhou, Shuwei Bai, Bin Hu, Nicholas Mc Guire, Lian Li，A novel portable multimedia QoS monitor: independent and high efficiency, Volume 10, Issue 10, pp. 1320-1333, Oct. 2010, DOI: 10.1002/wcm.744 (SCI)
+3.Qingguo Zhou, Tao Jin, Hong Zhao, Correlation between Eigenvalue Spectra and Dynamics of Neural Networks, Neural Computation, Volume 21, Issue 10, pp. 2931-2941, Oct. 2009 （SCI二区）
+4.Zhou Rui，Chen Xiaolong，Chen Huaming，Yan Fenglong，Chen Chunlin，Yu Qi，Zhou Qingguo*，Li Kuan-Ching，RCSoS: An IEC 61508 Compatible Server Model for Reliable Communication，Journal of Signal Processing Systems，2014 (SCI)
+5.Li Yan，Zhou Qingguo，Zhou Jian*, Zhang Gaofeng，Chen Chong，Wang Jing，Assimilating remote sensing information into a coupled hydrology-crop growth model to estimate regional maize yield in arid regions，Ecological Modelling，2014，291：15-27 (SCI)
+1.Zhou Qingguo, Cheng Guanghui, Zhou Rui, Li Lian, Hu Bin, A Case Study of OSS/COTS-Based System Development: Design and Implementation of an Open Scalable Network Storage Attached System, The Third International Conference on Pervasive Computing and Applications, 2008
+2.Shuwei Bai, Qingguo Zhou, Wenbo Chen, Rui Zhou, Lian Li, Barrier Synchronization for Cell Multi-processor Architecture, The First IEEE international conference on Ubi-Media Computing and workshops, 2008 (EI)
+3.Guanghui Cheng, Qingguo Zhou, Lian Li, Jie Zhang, Ying Ding, A case study of service integration based on embedded system using web service, The First IEEE international conference on Ubi-Media Computing and workshops, 2008 (EI)
+4.Shuwei Bai, Xingwen Huang, Qingguo Zhou, Nicholas Mc Guire，Device Driver Model for XtratuM，The Tenth Real-Time Linux Workshop. Mexico, 2008.
+5.Rui Zhou, Shuwei Bai, Baojun Wang, Nicholas McGuire, Qingguo Zhou, Lian Li. Initial Performance Study of XtratuM/PPC. The Tenth Real-Time Linux Workshop. Mexico, 2008.
+6.Pu Yiqiao, Zhou Qingguo, She Kairui, Wu Zhangjin, Various Freed Multi-Cores RTOS based Linux, The First International Symposium on IT in Medicine and Education. Xiamen, China, 2008
+7.Zhou Qingguo, Zhang Wei, Huang Xingwen, Nicholas McGuire, A Case Study of Nanokernel in Education, 2008 IEEE International Symposium on IT in Medicine & Education. Xiamen, China, 2008
+8.Jianwen Chen, Shuwei Bai, Qingguo Zhou, SPU based Network Module for Software Radio System on Cell Multicore Platform, 2008, the 1st International Workshop on Software Radio Technology (SRT). Beijing, China, 2008
+9.Qingguo Zhou, Shuwei Bai, Rui Zhou, Guanghui Cheng, p3m: A Kernel Space Tool for Multimedia Stream Monitoring, The Second International Conference on Pervasive Computing and Applications (ICPCA07), July 26-27, 2007, Birmingham, UK (EI)
+10.Qingguo Zhou, Guanghui Cheng, Tzu-Han Kao, Wenzhong Wu, Lian Li. Test bed for Remote Environmental Monitoring in Northwestern China, The Second International Conference on Pervasive Computing and Applications, (ICPCA07), July 26-27, 2007, Birmingham, UK (EI)
+11.Shuwei Bai, Kairui She, Qingguo Zhou, Nicholas Mc Guire, Lian Li, XM-FIFO: Interdomain Communication for XtratuM. The Ninth Real-Time Linux Workshop. Linz, Austria, 2007.
+12.Zhou Rui, Wang Baojun, Arthur Siro, Nicholas McGuire, Zhou Qingguo. XtratuM for PowerPC. The Ninth Real-Time Linux Workshop. Linz, Austria, 2007.
+13.YAN Yu, Qing-Guo ZHOU, WU Wen-Zhong, A Design and Implementation of the Real-Time Monitoring System Based On MPI for the High Performance PC-Cluster, The 12th National Conference on Information Storage Technology, Shanghai, China, 1-3 November 2002.
+14.Qingguo Zhou, A Remote data acquisition and control system for Mossbauer   spectroscopy, Nuclear Instruments and methods in Physics Research B 215 (2004) 577-580 (SCI)
+15.Qingguo Zhou, Baojun Wang, Nicholas Mc Guire, Case Study of the Performance of Real-Time Linux on the x86 Architecture, The Sixth Real-Time Linux Workshop November 3-5, 2004. Nanyang Technological University (NTU) Singapore
+16.Cheng Guanghui, Zhou Qingguo, Li Chanjuan, Zhou Rui, Zhao Junjie，A sensor platform based on PowerPC. The Seventh Real-Time Linux Workshop, November 3-4, 2005, LIFL, France
+17.Nicholas Mc Guire and Qingguo Zhou, Benchmarking - Cache issues, The Seventh Real-Time Linux Workshop November 3-4, 2005, LIFL, France
+18.Rui Zhou, Qingguo Zhou,etc, An Open Source and Network-based Remote Laboratory for Embedded Systems, International Journal of Engineering Education (IF 0.552), Vol. 26, No. 4, pp. 950-962 (SCI)，2010
+19.Zhang Gaofeng, Liu Tongshan, Liu Shaobo, Zhou Qingguo, Fine Grained Semantics of Images in Digital Museum, 2010 3rd IEEE International Conference on Ubi-Media Computing, U-Media 2010, pp. 99-102, 2010, Accession number: 20103813239471, DOI: 10.1109/UMEDIA.2010.5543919
+20.Cost-efficient data cryptographic engine based on FPGA, 2011 the 4th International Conference on Ubi-Media Computing, Li Chanjuan, Zhou Qingguo, Liu Yuli, Yao Qi, 2011 the 4th IEEE International Conference on Ubi-Media Computing, pp. 48-52 (EI)
+21.Adaptive Object Re-ranking Mechanism for Ubiquitous Learning Environment, Yen Neil Y., Shih Timothy K., Jin Qun, Hung Jason C., Zhou Qingguo, Chao Louis R., Journal of Multimedia, 2011, Vol. 6, No. 2, pp. 129-138 (EI)
+22.XFTRTS - A XtratuM Based Fault-tolerant Real-time Control System, Li Chanjuan, Zhang Chuande, Zhou Qingguo, Advanced Materials Research (2011 International Conference on Material Science and Information Technology, MSIT2011), Vol. 433-440, pp. 4095-4100, 2012 (EI)
+23.Yang Minqiang, Li Xuyuan, Zhou Qingguo, Nicholas Mc Guire, Performance Evaluation of openPOWERLINK, The 13th Real-Time Linux Workshop, 2011, Prague
+24.Rui Zhou, Chanjuan Li, Rong Min, Qi Yu, Fei Gu, Qingguo Zhou*, Jason C. Hung, Kuan-Ching Li, Xuan Wang, On Design and Formal Validation of SNSP - a Novel Real-Time Communication Protocol for Safety-Critical Applications, Journal of Supercomputing (SCI, IF=0.917), DOI: 10.1007/s11227-014-1157-2, 已接收
+25.Rui Zhou, Rong Min, Qi Yu, Chanjuan Li, Yong Sheng, Qingguo Zhou*, Xuan Wang, Kuan-Ching Li, Formal Verification of Fault-Tolerant and Recovery Mechanisms for Safe Node Sequence Protocol, The 28th IEEE International Conference on Advanced Information Networking and Applications (AINA-2014), Victoria, Canada, 2014
+26.Rui Zhou, Zhu Ai, Jun Hu, Qun Liu, Qingguo Zhou*, Xuan Wang, Hai Jiang, Kuan-Ching Li, Data Integrity Checking for iSCSI with Dm-verity, The 8th International Conference on Embedded and Multimedia Computing (EMC 2013), Taipei, Taiwan, 2013, published in Advanced Technologies, Embedded and Multimedia for Human-centric Computing, Lecture Notes in Electrical Engineering, Volume 260, pp. 691-697, 2014
+27.Rui Zhou, Qingguo Zhou, Yong Sheng, Kuan-Ching Li*, XtratuM/PPC: a hypervisor for partitioned system on PowerPC processors, Journal of Supercomputing, Volume 63, Issue 2, pp. 593-610, 2013 (SCI, IF=0.917)
+28.Lijuan Wang, Qingguo Zhou*, Tao Jin, Hong Zhao, Feed-back neural networks with discrete weights, Neural Computing & Applications, Volume 22, Issue 6, pp. 1063-1069, 2013 (SCI, IF=1.168)
+29.Rui Zhou, Huaming Chen, Qun Liu, Yong Sheng, Qingguo Zhou*, Xuan Wang, Kuan-Ching Li, A Server Model for Reliable Communication on Cell/B.E., The 42nd International Conference on Parallel Processing (ICPP 2013), pp. 1020-1027, Lyon, France, 2013 (EI)
+30.Lijuan Wang, Jun Shen, Changyan Di, Yan Li, Qingguo Zhou*, Towards minimizing cost for composite data-intensive services, 2013 IEEE 17th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2013), pp. 293-298, Whistler, BC, Canada, 2013 (EI)
+31.Rui Zhou, Zhu Ai, Jiaming Yang, Yucong Chen, Jun Li, Qingguo Zhou*, Kuan-Ching Li, A Hypervisor for MIPS-based Architecture Processors - a Case Study in Loongson Processors, The 15th IEEE International Conference on High Performance Computing and Communications (HPCC 2013), pp. 865-872, Zhangjiajie, China, 2013
+32.Jiaming Yang, Yanshan Tian, Shuan He, Junqiong Wang, Qingguo Zhou*, Xunchao Zhang, Ji Qi, Xuesong Yan, Jason C. Hung, Research on Converting CAD Model to MCNP Model Based on STEP File, 2013 International Joint Conference on Awareness Science and Technology & Ubi-Media Computing (iCAST 2013 & UMEDIA 2013), Aizu-wakamatsu, Japan, 2013
+33.Yuan Tian, Ji Qi, Junjie Lai, Qingguo Zhou*, Lei Yang, A Heterogeneous CPU-GPU Implementation for Discrete Elements Simulation with Multiple GPUs, 2013 International Joint Conference on Awareness Science and Technology & Ubi-Media Computing (iCAST 2013 & UMEDIA 2013), Aizu-wakamatsu, Japan, 2013
+34.Huaming Chen, Yong Sheng, Rui Zhou, Qingguo Zhou*, Shouqing Sun, Jason C. Hung, The Communication Model between Humanoid Robot and Mobile Phone, 2013 International Joint Conference on Awareness Science and Technology & Ubi-Media Computing (iCAST 2013 & UMEDIA 2013), Aizu-wakamatsu, Japan, 2013
+35.Yong Sheng, Jun Hu, Nicholas McGuire, Qingguo Zhou*, The Implementation of Node Order Protocol Based on Userspace I/O, The 15th Real Time Linux Workshop (RTLWS15), Lugano-Manno, Switzerland, 2013
+  研究方向
+嵌入式系统、实时系统，虚拟化技术、安全关键技术
+  项目成果
+1.GRAPES天气预报系统在国产高效能计算机上的高效运行技术研究（No. 2009AA01A138） 项目来源：863计划子课题
+2.Android智能手机系统软件研发（No. 2011620111000460）  项目来源：Google中国
+3.面向嵌入式系统的虚拟化技术研究（No. 60973137）  项目来源：国家自然科学基金
+4.基于龙芯的工业安全控制技术研究（No. 090WCGA891）  项目来源：甘肃省科技厅
+5.汽车行业可编程电子系统软件安全开发框架（No. 090WC452）项目来源：甘肃省外国专家局
+6.实时Hypervisor(No. G01250748) 项目来源：德国西门子
+7.Linux多核系统测试开发项目（No. 2011620111000093）  项目来源：宁波弘讯
+8.Linux RAS技术研究项目（No.2012620111000239）  项目来源：华为公司
+9.嵌入式多核操作系统硬件抽象关键技术研究（lzujbky-2010-89）  项目来源：中央高校基本科研业务费
+10.多核操作系统硬件抽象关键技术研究  项目来源：教育部新世纪人才计划
+11.兰州大学军民两用数据安全存储与共享平台研发项目 项目来源：甘肃省工业和信息化委员会
+12.内存多bit错误修复技术研究项目  项目来源：华为公司
+  荣誉获奖
+1.2007   IBM Real-Time Innovation Award
+2.2009   IBM奖教金
+3.2009   甘肃省教学成果二等奖
+4.2011   “龙芯杯”开源软件大赛最佳导师
+5.2011   Google中国奖教金
+6.2012   教育部-IBM高校合作项目最佳创新合作团队奖和优秀教师奖，谷歌研究奖（Google Research Award），Google中国大学合作项目年度突出贡献老师
+7.2014   兰州大学“隆基教育教学奖”教学骨干奖
+  社会工作
+1.IET Fellow，2013至今
+2.Real-Time Linux Foundation，Director，2007至今
+3.International Journal of Embedded System (IJES)，副主编，2013至今
+4.International Journal of Computational Science and Engineering (IJCSE) 副主编，2011-2014
+5.中国仪器仪表学会微型计算机应用学会理事，2009至今
+6.甘肃省教育信息化学会，常务理事，2008-2015
+7.中国计算机学会Yoccef兰州分论坛主席，2013-2014
+8.兰州大学开源软件与实时系统教育部工程研究中心副主任，2008至今
+9.兰州大学分布式与嵌入式系统实验室主任，2006至今
+10.Umedia，IETFC，ICPCA等国际会议PC Chair
